@@ -1,4 +1,44 @@
-* {
-    
-  }
+
+
+body {
+  background-color: blueviolet;
+  
+  margin: auto;
+}
+
+header {
+  
+}
+
+main {
+  margin: 3%;
+}
+
+.menu {
+  display: flex;
+  justify-content: center;
+}
+
+section {
+  display: flex;
+}
+
+.photo_principale {
+
+  height: 30em;
+  display: flex;
+  justify-content: left;
+}
+
+.title1 {
+  
+  justify-content: right;
+  margin: 10%;
+}
+
+.presentation {
+  
+  justify-content: right;
+  margin: 10%;
+}
 
